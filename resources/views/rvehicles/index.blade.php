@@ -18,8 +18,6 @@
 
         @foreach ($vehicles as $vehicle)
 
-            @if ($vehicle->availability == "Available")
-
               <div class="col-md-<?php echo $bootstrapColWidth; ?>">
 
                   <div class="d-md-flex flex-md-equal w-100 my-md-6 pl-md-6">
@@ -38,15 +36,13 @@
                           </div>
 
                       </div>
-                  </div>
-              </div>
+                  </div><br>
 
               <?php
                 $rowCount++;
-                if($rowCount % $numOfCols == 0) echo '</div><br> <div class="row">';
+                if($rowCount % $numOfCols == 0) echo '</div> <div class="row">';
                 ?>
                 </div>
-            @endif
 
         @endforeach
 
