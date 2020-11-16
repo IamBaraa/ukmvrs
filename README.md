@@ -30,7 +30,7 @@ P.S. “UKM VRS” is managed perfectly through “VRS Admin” system, which wa
 ![Alt text](/Screenshots/Available.png?raw=true "Available Vehicels")
 ---
 #### My Vehicels
-![Alt text](/Screenshots/My-Vehicels.png?raw=true "My Vehicels")
+![Alt text](/Screenshots/My-Vehicel.png?raw=true "My Vehicels")
 ---
 #### Add a Vehicle
 ![Alt text](/Screenshots/Add.png?raw=true "Add a Vehicle")
