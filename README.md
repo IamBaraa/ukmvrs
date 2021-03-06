@@ -20,7 +20,7 @@ Note: Users are not asked to select one type only, as they can be both (customer
  
 As soon as a vehicle is booked, the owner will be notified automatically via email. The email includes the customer’s address and contact information. It is then the responsibility of the owner to contact the customer and deliver the vehicle to them. Finally, for the services provided by “UKM VRS”, 10% of the total price paid to vehicles owners by customers shall be paid to VRS owners.
 
-P.S. “UKM VRS” is managed perfectly through “VRS Admin” system, which was developed with tons of management features and some data visualization figures to enable admins to control the system properly and easily. Check [UKM VRS](https://github.com/ba98/vrsadmin) if you wish.
+P.S. “UKM VRS” is managed perfectly through “VRS Admin” system, which was developed with tons of management features and some data visualization figures to enable admins to control the system properly and easily. Check [VRS Admin](https://github.com/ba98/vrsadmin) if you wish.
 
 ## Screenshots
 #### Home Page
